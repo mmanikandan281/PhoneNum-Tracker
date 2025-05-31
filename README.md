@@ -1,7 +1,7 @@
 
 # PhoneNum-Tracker
 
-A Python application to track and retrieve information about phone numbers using libraries like `phonenumbers`, `pycountry`, and `phone-iso3166`.
+A Python application to track and retrieve information about phone numbers.
 
 ## Features
 
@@ -58,7 +58,7 @@ This project is licensed under the MIT License.
 
 Made with ❤️ by Manikandan M
 
-```
+
 
 
 
