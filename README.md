@@ -2,6 +2,9 @@
 
 A Python application to **track and retrieve detailed information about phone numbers**, including validation, country, and region detection.
 
+![Screenshot (102)](https://github.com/user-attachments/assets/248198b7-8cbf-4017-a494-c9bb03cfb1d3)
+
+
 ---
 
 ## ✨ Features
