@@ -1,8 +1,3 @@
-Absolutely! Here's a more polished, visually appealing version of your README with better formatting, badges, emojis, and clearer sections for a professional look:
-
----
-
-
 # 📱 PhoneNum-Tracker
 
 A Python application to **track and retrieve detailed information about phone numbers**, including validation, country, and region detection.
